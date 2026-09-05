@@ -423,7 +423,7 @@ Body :
   "name": "Farah",
   "email": "farah@test.com",
   "password": "123456",
-  "role": "user"
+  "role": "patient"
 }
 ```
 
@@ -790,7 +790,7 @@ Backend
 
 ---
 
-# 📌 Périmètre du développement
+#  Périmètre du développement
 
 Le développement a été réalisé en tenant compte de la durée indiquée dans le test technique, soit environ **1 à 2 heures**.
 
@@ -809,7 +809,7 @@ Le frontend a été volontairement maintenu simple afin de consacrer davantage d
 
 ---
 
-# 🔮 Évolutions possibles
+#  Évolutions possibles
 
 Pour une version production, plusieurs améliorations pourraient être ajoutées :
 
@@ -829,7 +829,7 @@ Pour une version production, plusieurs améliorations pourraient être ajoutées
 
 ---
 
-# 👩‍💻 Auteur
+#  Auteur
 
 **Farah Hmida**
 
